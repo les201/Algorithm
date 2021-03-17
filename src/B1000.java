@@ -9,7 +9,6 @@ public class B1000 {
 		b = sc.nextInt();
 		
 		System.out.println(a+b);
-
 	}
 
 }
